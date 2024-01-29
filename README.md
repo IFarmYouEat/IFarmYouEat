@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/IFarmYouEat/IFarmYouEat/commit/6f7202f66a8f20fb279583ffb86abd8c831f9581)
+![MasterHead](https://raw.githubusercontent.com/IFarmYouEat/IFarmYouEat/6f7202f66a8f20fb279583ffb86abd8c831f9581/header.png)
 
 <h3 align="center">A passionate frontend developer from Southern Minnesota</h3>
 
